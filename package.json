@@ -1,0 +1,22 @@
+{
+  "name": "baby-steps-in",
+  "version": "1.0.0",
+  "description": "nothing actually",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karankartikeya/baby-steps-in-js.git"
+  },
+  "author": "karankartikey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karankartikeya/baby-steps-in-js/issues"
+  },
+  "homepage": "https://github.com/karankartikeya/baby-steps-in-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
